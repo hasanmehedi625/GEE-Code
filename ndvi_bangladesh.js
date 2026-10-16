@@ -50,10 +50,6 @@ Map.addLayer(
   'NDVI image'
   );
 Map.addLayer(evi, {min: 0, max: 2, palette: ['blue', 'white', 'green']}, 'EVI image');
-
-
-
-  
   
 Map.addLayer(
   image, 
